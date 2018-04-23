@@ -2,7 +2,7 @@
 
 ---
 
-In this assignment students are to choose from a list of given API endpoints and create a single-page application which uses data retrieved from their selected endpoint.
+In this assignment students are to use Twitters open API to get, post, and delete tweets. The basic requirements only require those three operations, however, students are welcome, and encouraged, to attempt to implement more requests in order to implement more of the functionality of the Twitter website.
 
 
 ## Goal
@@ -15,8 +15,5 @@ To allow students to practice using axios and making HTTP requests to an API end
 
 ---
 
-- [ ] Choose an API to use
-- [ ] Study the model of the API and create a single-page application design based on the data you will recieve
-- [ ] break the design down into components and implement those components in React
-- [ ] If you decide to have multiple routes use react-router-dom to implement each route
+- [ ] Study the model of the [Twitter API](https://developer.twitter.com/en/docs)
 - [ ] Implement the HTTP calls to your endpoint using axios
