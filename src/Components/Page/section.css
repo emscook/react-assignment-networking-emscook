@@ -1,0 +1,44 @@
+.section {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .header {
+    height: 40%;
+    width: 100%;
+  }
+.img{
+  width: auto;
+  height: auto;
+}
+  .header .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+  }
+  
+  .dark.fa {
+    color: #fff;
+    background: #333;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+  }
+  
+  .light.fa {
+    color: #008ed6;
+    background: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30px;
+  }

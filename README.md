@@ -1,19 +1,18 @@
-# Networking Assignment
+# Component Assignment
 
 ---
 
-In this assignment students are to use Twitters open API to get, post, and delete tweets. The basic requirements only require those three operations, however, students are welcome, and encouraged, to attempt to implement more requests in order to implement more of the functionality of the Twitter website.
-
+In this assignment students are to again copy the twitter homepage. This time, students should break the design down into components and recreate the page using React.
 
 ## Goal
 
 ---
 
-To allow students to practice using axios and making HTTP requests to an API endpoint. Also, to expose students to creating a web application based around the data they recieve from an API endpoint they didn't create themselves.
+To have students practice breaking web page designs into copmonents and then implementing those components using React.
 
 ## Tasks
 
 ---
 
-- [ ] Study the model of the [Twitter API](https://developer.twitter.com/en/docs)
-- [ ] Implement the HTTP calls to your endpoint using axios
+- [ ] Break the design of the Twitter homepage into components
+- [ ] Implement those copmonents using React and create the web page
